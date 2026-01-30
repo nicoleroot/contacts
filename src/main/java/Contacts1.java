@@ -151,6 +151,7 @@ public class Contacts1 {
      * ====================================================================
      */
 
+
     private static void showWelcomeMessage() {
         showToUser(DIVIDER, DIVIDER, VERSION, MESSAGE_WELCOME, DIVIDER);
     }
